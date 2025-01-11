@@ -7,7 +7,7 @@ const Routes2= require('./routes/post.routes.js')
 
 
 const app= express()
-const PORT= 7000
+const PORT= 6000
 
 const DATABASE_URL='mongodb://localhost:27017/secondInterS' 
 
